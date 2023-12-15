@@ -135,6 +135,9 @@ module.exports = {
     theme: {
       variant: "main",
     },
+    hyperTabs: {
+      trafficButtons: true,
+    },
     // for advanced config flags please refer to https://hyper.is/#cfg
   },
   // a list of plugins to fetch and install from npm
